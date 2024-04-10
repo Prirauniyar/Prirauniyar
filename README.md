@@ -1,3 +1,4 @@
+<img src="file:///C:/Users/princ/Downloads/prince.png.jpg.gif" alt="Prince Image">
 <h1 align="center">Hi 👋, I'm Prince Kumar</h1>
 <h3 align="center">A passionate frontend developer from india</h3>
 
